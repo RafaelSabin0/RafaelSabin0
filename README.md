@@ -4,7 +4,7 @@
 
 <pre>
     💼 Full Stack Developer
-    🌱 I’m currently learning - Data Structures • Data Science • Tests
+    🌱 I’m currently learning - C# • Data Structures • Tests
     🏐 Code • Music • Volleyball • Games • Books
 </pre>
 
